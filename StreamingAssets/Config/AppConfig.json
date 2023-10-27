@@ -1,0 +1,9 @@
+{
+  "companyName": "ZGSD",
+  "productName": "NobleGarden",
+  "appIdentifier": "com.ZGSD.FarmWebGL1001",
+  "version": "1.0.0",
+  "channelId": "",
+  "channelName": "",
+  "gameModules": "[{\"name\":\"FarmWebGL\",\"assemblyName\":\"FarmWebGL\"}]"
+}

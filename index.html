@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+   <meta charset="utf-8" />
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <title>NobleGarden</title>
+   <meta name="viewport"
+      content="width=device-width, height=device-height,  initial-scale=1.0, user-scalable=no;user-scalable=0;" />
+   <link rel="stylesheet" href="Template/style.css" />
+</head>
+
+<body class="Dark">
+   <div id="main-container" class="fill-window">
+      <div id="unity-container">
+         <canvas id="unity-canvas"></canvas>
+         <div id="toggle_fullscreen" class="button floatbottomLeft fullscreenON" style="z-index: 10;"> <span class="imgbutton"></span> </div>
+
+      </div>
+      <div id="rotateTipRoot" class="bg">
+         <div class="maskBox" style="opacity: 0.8;">
+            <img id="rotateTip" src="Template/rotate.png" style="z-index: 10;" />
+         </div>
+      </div>
+      <div id="loader">
+         <div class="imgBoxOne"></div>
+         <div class="maskBox1" style="opacity: 0.5;"></div>
+         <div class="center_img">
+            <img src="Template/9gLogo.png" class="logo9g" />
+            <img src="Template/game_logo.png" class="logo9g" />
+            <div class="progressbarContainer">
+               <div class="center">
+                  <div id="progressbar" class="progressbar">
+                     <div id="fill" class="fill" style="width: 0%;"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+      </div>
+   </div>
+
+   <script src="Template/app.js"> </script>
+
+</body>
+
+</html>
