@@ -12,11 +12,13 @@
     <type fullname="FarmWebGL.Chicken3D" preserve="all" />
     <type fullname="FarmWebGL.ChickenBuy" preserve="all" />
     <type fullname="FarmWebGL.ChickenDesc" preserve="all" />
+    <type fullname="FarmWebGL.ChickenGuide" preserve="all" />
     <type fullname="FarmWebGL.CloudAnim" preserve="all" />
     <type fullname="FarmWebGL.Cow2D" preserve="all" />
     <type fullname="FarmWebGL.Cow3D" preserve="all" />
     <type fullname="FarmWebGL.CowBuy" preserve="all" />
     <type fullname="FarmWebGL.CowDesc" preserve="all" />
+    <type fullname="FarmWebGL.CowGuide" preserve="all" />
     <type fullname="FarmWebGL.DepotItem" preserve="all" />
     <type fullname="FarmWebGL.DepotOpenUp" preserve="all" />
     <type fullname="FarmWebGL.DialogAnim" preserve="all" />
@@ -45,6 +47,7 @@
     <type fullname="FarmWebGL.TextureSize" preserve="all" />
     <type fullname="FarmWebGL.TreeBuy" preserve="all" />
     <type fullname="FarmWebGL.TreeDesc" preserve="all" />
+    <type fullname="FarmWebGL.TreeGuide" preserve="all" />
     <type fullname="Sickle" preserve="all" />
     <type fullname="FarmWebGL.StateMachine/SwitchEvent" preserve="nothing" serialized="true" />
   </assembly>
@@ -122,7 +125,6 @@
     <type fullname="UnityEngine.GameObject" preserve="all" />
     <type fullname="UnityEngine.LightmapSettings" preserve="all" />
     <type fullname="UnityEngine.Material" preserve="all" />
-    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
